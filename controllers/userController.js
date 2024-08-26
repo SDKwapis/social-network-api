@@ -35,7 +35,7 @@ const userController = {
     User.findOneAndUpdate(
       { _id: req.params.userId },
       { $set: req.body },
-      { new: true, runValidators: true }
+      { new: true }
     )
       .then((user) =>
         !user
