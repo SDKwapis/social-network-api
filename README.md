@@ -6,6 +6,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Visuals/Links](#visuals/links)
 - [Contributing](#contributing)
 - [License](#license)
 - [Tests](#tests)
@@ -23,6 +24,8 @@ In order to run the application you need to access the terminal  and run the loc
 This is a backend specific application for an up-and-coming social media platform. Through GET, POST, PUT, and DELTE requests you can add/update users, add/delete friends, create new 'thoughts', and add reactions to thoughts.
 
 # Visuals/Links
+<img src="./images/api.png">
+https://github.com/SDKwapis/social-network-api
 
 # Contributing
 This project was built using class materials and rewatching the class recordings. Certain syntax and definitions were looked up stack overflow.
